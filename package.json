@@ -1,0 +1,37 @@
+{
+  "name": "grace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^7.8.12",
+    "@react-navigation/native": "^7.1.26",
+    "@react-navigation/native-stack": "^7.9.0",
+    "cors": "^2.8.5",
+    "expo": "~54.0.29",
+    "expo-dev-client": "~6.0.20",
+    "expo-status-bar": "~3.0.9",
+    "express": "^5.2.1",
+    "firebase": "^12.7.0",
+    "mongoose": "^9.0.2",
+    "nodemon": "^3.1.11",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.5",
+    "react-native-pdf": "^7.0.3",
+    "react-native-safe-area-context": "^5.6.2",
+    "react-native-screens": "^4.19.0",
+    "react-native-vector-icons": "^10.3.0",
+    "react-native-web": "^0.21.0"
+  },
+  "private": true,
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
