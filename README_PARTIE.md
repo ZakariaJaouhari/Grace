@@ -1,3 +1,3 @@
-# Grace - Partie 1 (Membre 1)
+# Grace - Partie 2 (Membre 2)
 
-Version de base: pages Home, Login, Register, Recuperation + navigation simple.
+Version intermédiaire: reprend Partie 1 + ajoute Dossiers (liste/détail) + PDF viewer.
